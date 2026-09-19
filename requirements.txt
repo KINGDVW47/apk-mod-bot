@@ -1,0 +1,4 @@
+# Depandans Python pou APK Mod Bot
+# Enstale ak: pip install -r requirements.txt
+
+python-telegram-bot==20.8
